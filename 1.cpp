@@ -1,3 +1,4 @@
+//第一次上机作业:建立一个顺序表，插入，删除，定位查找删除。
 #include <iostream>
 using namespace std;
 
